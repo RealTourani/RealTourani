@@ -2,6 +2,9 @@ Hi there 👋
 
 - 🔭 I'm currently working with Python
 - 🌱 I’m currently learning Linux
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RealTourani)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RealTourani/RealTourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
