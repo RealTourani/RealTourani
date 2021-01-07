@@ -1,5 +1,7 @@
-### Hi there 👋
+Hi there 👋
 
+- 🔭 I'm currently working with Python
+- 🌱 I’m currently learning Linux
 <!--
 **RealTourani/RealTourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
