@@ -2,6 +2,7 @@ Hi there 👋
 
 - 🔭 I'm currently working with Python
 - 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Machine Learning
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RealTourani)](https://github.com/anuraghazra/github-readme-stats)
 
